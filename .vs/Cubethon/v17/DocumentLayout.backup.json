@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\s115456\\source\\repos\\Cubethon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{629AD74B-FB9F-183D-30E7-B503B4315217}|Assembly-CSharp.csproj|c:\\users\\s115456\\source\\repos\\cubethon\\assets\\scripts\\credits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{629AD74B-FB9F-183D-30E7-B503B4315217}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\credits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{629AD74B-FB9F-183D-30E7-B503B4315217}|Assembly-CSharp.csproj|C:\\Users\\s115456\\source\\repos\\Cubethon\\assets\\scripts\\levelcomplete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{629AD74B-FB9F-183D-30E7-B503B4315217}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelcomplete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{629AD74B-FB9F-183D-30E7-B503B4315217}|Assembly-CSharp.csproj|c:\\users\\s115456\\source\\repos\\cubethon\\assets\\scripts\\levelcomplete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{629AD74B-FB9F-183D-30E7-B503B4315217}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelcomplete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{629AD74B-FB9F-183D-30E7-B503B4315217}|Assembly-CSharp.csproj|c:\\users\\s115456\\source\\repos\\cubethon\\assets\\scripts\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{629AD74B-FB9F-183D-30E7-B503B4315217}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{629AD74B-FB9F-183D-30E7-B503B4315217}|Assembly-CSharp.csproj|c:\\users\\s115456\\source\\repos\\cubethon\\assets\\scripts\\credits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{629AD74B-FB9F-183D-30E7-B503B4315217}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\credits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{629AD74B-FB9F-183D-30E7-B503B4315217}|Assembly-CSharp.csproj|C:\\Users\\s115456\\source\\repos\\Cubethon\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,37 +46,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\s115456\\source\\repos\\Cubethon\\Assets\\Scripts\\Menu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menu.cs",
+              "ToolTip": "C:\\Users\\s115456\\source\\repos\\Cubethon\\Assets\\Scripts\\Menu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T17:53:51.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Credits.cs",
               "DocumentMoniker": "C:\\Users\\s115456\\source\\repos\\Cubethon\\Assets\\Scripts\\Credits.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Credits.cs",
               "ToolTip": "C:\\Users\\s115456\\source\\repos\\Cubethon\\Assets\\Scripts\\Credits.cs",
               "RelativeToolTip": "Assets\\Scripts\\Credits.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAADwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-24T17:47:35.412Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "LevelComplete.cs",
               "DocumentMoniker": "C:\\Users\\s115456\\source\\repos\\Cubethon\\Assets\\Scripts\\LevelComplete.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\LevelComplete.cs",
               "ToolTip": "C:\\Users\\s115456\\source\\repos\\Cubethon\\Assets\\Scripts\\LevelComplete.cs",
               "RelativeToolTip": "Assets\\Scripts\\LevelComplete.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-24T17:38:16.734Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "EndTrigger.cs",
               "DocumentMoniker": "C:\\Users\\s115456\\source\\repos\\Cubethon\\Assets\\Scripts\\EndTrigger.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EndTrigger.cs",
@@ -80,12 +97,11 @@
               "RelativeToolTip": "Assets\\Scripts\\EndTrigger.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T17:16:16.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T17:16:16.059Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\s115456\\source\\repos\\Cubethon\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
@@ -93,12 +109,11 @@
               "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T16:57:51.385Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T16:57:51.385Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Score.cs",
               "DocumentMoniker": "C:\\Users\\s115456\\source\\repos\\Cubethon\\Assets\\Scripts\\Score.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Score.cs",
@@ -106,12 +121,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Score.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T16:42:32.803Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T16:42:32.803Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "PlayerCollision.cs",
               "DocumentMoniker": "C:\\Users\\s115456\\source\\repos\\Cubethon\\Assets\\Scripts\\PlayerCollision.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerCollision.cs",
@@ -119,12 +133,11 @@
               "RelativeToolTip": "Assets\\Scripts\\PlayerCollision.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T16:55:41.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T16:55:41.123Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "FollowPlayer.cs",
               "DocumentMoniker": "C:\\Users\\s115456\\source\\repos\\Cubethon\\Assets\\Scripts\\FollowPlayer.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FollowPlayer.cs",
@@ -132,12 +145,11 @@
               "RelativeToolTip": "Assets\\Scripts\\FollowPlayer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T16:51:36.181Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T16:51:36.181Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "C:\\Users\\s115456\\source\\repos\\Cubethon\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
@@ -145,8 +157,7 @@
               "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T16:41:04.533Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T16:41:04.533Z"
             }
           ]
         }
